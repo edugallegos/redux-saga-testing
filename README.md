@@ -7,3 +7,5 @@ __Run tests__
 ```javascript
 npm run test
 ```
+
+File with tests: saga.test.js
